@@ -1138,6 +1138,65 @@
       ]
     },
     {
+      "name": "Shaderoot",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/wood_compat_2.png",
+      "startColor": "#242559",
+      "endColor": "#242559",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "pyrellium:shaderoot_boat",
+        "pyrellium:shaderoot_button",
+        "pyrellium:shaderoot_chest_boat",
+        "pyrellium:shaderoot_door",
+        "pyrellium:shaderoot_fence",
+        "pyrellium:shaderoot_fence_gate",
+        "pyrellium:shaderoot_hanging_sign",
+        "pyrellium:shaderoot_log",
+        "pyrellium:shaderoot_planks",
+        "pyrellium:shaderoot_pressure_plate",
+        "pyrellium:shaderoot_sign",
+        "pyrellium:shaderoot_slab",
+        "pyrellium:shaderoot_stairs",
+        "pyrellium:shaderoot_trapdoor",
+        "pyrellium:shaderoot_wood",
+        "pyrellium:stripped_shaderoot_log",
+        "pyrellium:stripped_shaderoot_wood"
+      ]
+    },
+    {
+      "name": "Skyroot",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/wood_compat_2.png",
+      "startColor": "#737558",
+      "endColor": "#737558",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "aether:golden_oak_log",
+        "aether:golden_oak_wood",
+        "aether:skyroot_bed",
+        "aether:skyroot_boat",
+        "aether:skyroot_button",
+        "aether:skyroot_chest_boat",
+        "aether:skyroot_door",
+        "aether:skyroot_fence",
+        "aether:skyroot_fence_gate",
+        "aether:skyroot_hanging_sign",
+        "aether:skyroot_log",
+        "aether:skyroot_planks",
+        "aether:skyroot_pressure_plate",
+        "aether:skyroot_sign",
+        "aether:skyroot_slab",
+        "aether:skyroot_stairs",
+        "aether:skyroot_trapdoor",
+        "aether:skyroot_wood",
+        "aether:stripped_skyroot_log",
+        "aether:stripped_skyroot_wood"
+      ]
+    },
+    {
       "name": "Stone",
       "index": 0,
       "image": "legendarytooltips:textures/gui/stone.png",
@@ -1643,6 +1702,40 @@
       ]
     },
     {
+      "name": "Holystone",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#B6B6B6",
+      "endColor": "#B6B6B6",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "aether:holystone",
+        "aether:holystone_brick_slab",
+        "aether:holystone_brick_stairs",
+        "aether:holystone_brick_wall",
+        "aether:holystone_bricks",
+        "aether:holystone_slab",
+        "aether:holystone_stairs",
+        "aether:holystone_wall"
+      ]
+    },
+    {
+      "name": "Mossy Holystone",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#B6B6B6",
+      "endColor": "#B6B6B6",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "aether:mossy_holystone",
+        "aether:mossy_holystone_slab",
+        "aether:mossy_holystone_stairs",
+        "aether:mossy_holystone_wall"
+      ]
+    },
+    {
       "name": "Resonarium",
       "index": 0,
       "image": "legendarytooltips:textures/gui/ore_compat.png",
@@ -1662,6 +1755,50 @@
         "deeperdarker:resonarium_plate",
         "deeperdarker:resonarium_shovel",
         "deeperdarker:resonarium_sword"
+      ]
+    },
+    {
+      "name": "Skyrooten",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/ore_compat.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": [
+        "aether:skyroot_axe",
+        "aether:skyroot_axolotl_bucket",
+        "aether:skyroot_bucket",
+        "aether:skyroot_cod_bucket",
+        "aether:skyroot_hoe",
+        "aether:skyroot_milk_bucket",
+        "aether:skyroot_pickaxe",
+        "aether:skyroot_poison_bucket",
+        "aether:skyroot_powder_snow_bucket",
+        "aether:skyroot_pufferfish_bucket",
+        "aether:skyroot_remedy_bucket",
+        "aether:skyroot_salmon_bucket",
+        "aether:skyroot_shovel",
+        "aether:skyroot_sword",
+        "aether:skyroot_tadpole_bucket",
+        "aether:skyroot_tropical_fish_bucket",
+        "aether:skyroot_water_bucket"
+      ]
+    },
+    {
+      "name": "Holy Stone",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/ore_compat.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": [
+        "aether:holystone_axe",
+        "aether:holystone_hoe",
+        "aether:holystone_pickaxe",
+        "aether:holystone_shovel",
+        "aether:holystone_sword"
       ]
     },
     {
@@ -2923,9 +3060,13 @@
         "pyrellium:burning_sapling",
         "pyrellium:dead_roots",
         "pyrellium:dead_sprouts",
+        "pyrellium:flowering_ghostly_leaves",
         "pyrellium:ghostly_leaves",
+        "pyrellium:ghostly_vines",
         "pyrellium:pyrolily",
+        "pyrellium:shaderoot_sapling",
         "pyrellium:spores",
+        "pyrellium:wispbloom",
         "wilderwild:algae",
         "wilderwild:auburn_creeping_moss",
         "wilderwild:auburn_moss_block",
@@ -3092,6 +3233,7 @@
         "stone_pressure_plate",
         "target",
         "tripwire_hook",
+        "aether:holystone_pressure_plate",
         "copperhopper:copper_hopper",
         "immersive_armors:steampunk_boots",
         "immersive_armors:steampunk_chestplate",
@@ -3504,7 +3646,7 @@
       "endColor": "#5B4538",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["soul_sand", "soul_soil"]
+      "selectors": ["soul_sand", "soul_soil", "pyrellium:drained_soul_soil"]
     },
     {
       "name": "Eggs",
