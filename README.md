@@ -31,6 +31,7 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 
 ## 🚀 Planned Features
 
+- Some Minecraft blocks/items
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
 
 ## 📦 Installation
@@ -42,6 +43,8 @@ You can download Crystal Tooltips on [Modrinth](https://modrinth.com/project/FVo
 You need the following mod for it to work properly:
 
 - [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
+
+Want the Obscure Tooltips version, check my other resource packs [Clarity Tooltips](https://modrinth.com/project/FVJdWwQv)
 
 ## 🙏 Credits
 
