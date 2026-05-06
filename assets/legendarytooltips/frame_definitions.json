@@ -440,6 +440,7 @@
         "bamboo_slab",
         "bamboo_stairs",
         "bamboo_trapdoor",
+        "scaffolding",
         "another_furniture:bamboo_bench",
         "another_furniture:bamboo_chair",
         "another_furniture:bamboo_drawer",
@@ -1211,6 +1212,7 @@
         "cobblestone_stairs",
         "cobblestone_wall",
         "cracked_stone_bricks",
+        "furnace",
         "infested_chiseled_stone_bricks",
         "infested_cobblestone",
         "infested_cracked_stone_bricks",
@@ -1225,7 +1227,8 @@
         "stone_bricks",
         "stone_slab",
         "stone_stairs",
-        "pyrellium:headstone"
+        "pyrellium:headstone",
+        "wilderwild:stone_chest"
       ]
     },
     {
@@ -1454,6 +1457,26 @@
         "biomesoplenty:blackstone_spines",
         "pyrellium:blackstone_rock"
       ]
+    },
+    {
+      "name": "Gravel",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#979797",
+      "endColor": "#979797",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["gravel", "suspicious_gravel"]
+    },
+    {
+      "name": "Clay",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#A1A7B1",
+      "endColor": "#A1A7B1",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["clay", "clay_ball"]
     },
     {
       "name": "Mossy Mud",
@@ -2686,6 +2709,7 @@
         "$c:rods/blaze",
         "blaze_powder",
         "campfire",
+        "candle",
         "fire_charge",
         "flint_and_steel",
         "magma_block",
@@ -2699,7 +2723,8 @@
         "friendsandfoes:wildfire_crown_fragment",
         "livingthings:ancient_helmet",
         "netherite_upgrade_smithing_template",
-        "pyrellium:netherrack_mycelium"
+        "pyrellium:netherrack_mycelium",
+        "soulcandles:soul_candle"
       ]
     },
     {
@@ -2773,19 +2798,21 @@
       "selectors": [
         "$minecraft:anvil",
         "$minecraft:rails",
+        "blast_furnace",
         "chain",
-        "chest_minecart",
-        "furnace_minecart",
+        "grindstone",
         "goat_horn",
-        "hopper_minecart",
         "iron_bars",
         "iron_block",
         "iron_door",
         "iron_trapdoor",
         "lantern",
+        "lodestone",
         "minecart",
+        "smoker",
         "soul_lantern",
         "spawner",
+        "stonecutter",
         "tnt_minecart",
         "copperhopper:copper_hopper_minecart",
         "thecopperrail:copper_rail",
@@ -2923,6 +2950,7 @@
         "large_amethyst_bud",
         "medium_amethyst_bud",
         "small_amethyst_bud",
+        "tinted_glass",
         "pyrellium:clear_amethyst_block"
       ]
     },
@@ -3183,6 +3211,7 @@
         "dragon_breath",
         "fermented_spider_eye",
         "ghast_tear",
+        "glass_bottle",
         "glistering_melon_slice",
         "lingering_potion",
         "magma_cream",
@@ -3194,7 +3223,9 @@
         "spider_eye",
         "splash_potion",
         "sugar",
-        "beansbackpacks:alchemy_bag"
+        "beansbackpacks:alchemy_bag",
+        "wilderwild:scorched_eye",
+        "wilderwild:fermented_scorched_eye"
       ]
     },
     {
@@ -3302,7 +3333,7 @@
       "name": "Music discs",
       "index": 13,
       "image": "legendarytooltips:textures/gui/2.png",
-      "startColor": "#CFC9DB",
+      "startColor": "#BCA593",
       "endColor": "#BCA593",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
@@ -3322,6 +3353,7 @@
         "flower_banner_pattern",
         "globe_banner_pattern",
         "guster_banner_pattern",
+        "loom",
         "mojang_banner_pattern",
         "piglin_banner_pattern",
         "skull_banner_pattern"
