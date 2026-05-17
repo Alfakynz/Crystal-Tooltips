@@ -2652,6 +2652,7 @@
         "iron_sword",
         "shears",
         "shield",
+        "sulfur_cube_bucket",
         "aether:iron_bubble",
         "aether:iron_gloves",
         "aether:iron_pendant",
@@ -2809,6 +2810,7 @@
         "lantern",
         "lodestone",
         "minecart",
+        "smithing_table",
         "smoker",
         "soul_lantern",
         "spawner",
@@ -2965,6 +2967,26 @@
       "selectors": ["$c:seeds", "cocoa_beans"]
     },
     {
+      "name": "Wood tools",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#896727",
+      "endColor": "#493615",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "armor_stand",
+        "bowl",
+        "carrot_on_a_stick",
+        "fishing_rod",
+        "ladder",
+        "stick",
+        "warped_fungus_on_a_stick",
+        "comforts:rope_and_nail",
+        "niftycarts:wheel"
+      ]
+    },
+    {
       "name": "Command blocks",
       "index": 15,
       "image": "legendarytooltips:textures/gui/1.png",
@@ -3023,6 +3045,7 @@
         "large_fern",
         "leaf_litter",
         "lily_pad",
+        "mangrove_roots",
         "moss_block",
         "moss_carpet",
         "pale_hanging_moss",
@@ -3100,7 +3123,9 @@
         "wilderwild:auburn_moss_block",
         "wilderwild:auburn_moss_carpet",
         "wilderwild:bush",
+        "wilderwild:butterfly_bottle",
         "wilderwild:clovers",
+        "wilderwild:firefly_bottle",
         "wilderwild:frozen_fern",
         "wilderwild:frozen_large_fern",
         "wilderwild:frozen_short_grass",
@@ -3180,6 +3205,35 @@
       ]
     },
     {
+      "name": "Smithing Template",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#707070",
+      "endColor": "#707070",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "bolt_armor_trim_smithing_template",
+        "coast_armor_trim_smithing_template",
+        "dune_armor_trim_smithing_template",
+        "eye_armor_trim_smithing_template",
+        "flow_armor_trim_smithing_template",
+        "host_armor_trim_smithing_template",
+        "raiser_armor_trim_smithing_template",
+        "rib_armor_trim_smithing_template",
+        "sentry_armor_trim_smithing_template",
+        "shaper_armor_trim_smithing_template",
+        "silence_armor_trim_smithing_template",
+        "snout_armor_trim_smithing_template",
+        "spire_armor_trim_smithing_template",
+        "tide_armor_trim_smithing_template",
+        "vex_armor_trim_smithing_template",
+        "ward_armor_trim_smithing_template",
+        "wayfinder_armor_trim_smithing_template",
+        "wild_armor_trim_smithing_template"
+      ]
+    },
+    {
       "name": "Wind stuff",
       "index": 7,
       "image": "legendarytooltips:textures/gui/2.png",
@@ -3216,6 +3270,7 @@
         "lingering_potion",
         "magma_cream",
         "nether_wart",
+        "ominous_bottle",
         "phantom_membrane",
         "potion",
         "pufferfish",
@@ -3337,7 +3392,7 @@
       "endColor": "#BCA593",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["$c:music_discs", "jukebox"]
+      "selectors": ["$c:music_discs", "jukebox", "music_disc_bounce"]
     },
     {
       "name": "Banner Patterns",
@@ -3893,6 +3948,43 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["horn_coral", "horn_coral_block", "horn_coral_fan"]
+    },
+    {
+      "name": "Book",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
+      "startColor": "#654B17",
+      "endColor": "#543E13",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "book",
+        "bookshelf",
+        "chiseled_bookshelf",
+        "lectern",
+        "writable_book",
+        "aether:book_of_lore",
+        "aether:skyroot_bookshelf"
+      ]
+    },
+    {
+      "name": "Grass",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
+      "startColor": "#966C4A",
+      "endColor": "#79553A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "coarse_dirt",
+        "dirt",
+        "dirt_path",
+        "farmland",
+        "grass_block",
+        "mycelium",
+        "podzol",
+        "rooted_dirt"
+      ]
     },
     {
       "name": "Beef",
