@@ -3963,6 +3963,7 @@
         "chiseled_bookshelf",
         "lectern",
         "writable_book",
+        "written_book",
         "aether:book_of_lore",
         "aether:skyroot_bookshelf"
       ]
