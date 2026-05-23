@@ -1479,6 +1479,89 @@
       "selectors": ["clay", "clay_ball"]
     },
     {
+      "name": "Cinnabar",
+      "index": 13,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#AB4341",
+      "endColor": "#AB4341",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "cinnabar",
+        "cinnabar_brick_slab",
+        "cinnabar_brick_stairs",
+        "cinnabar_brick_wall",
+        "cinnabar_bricks",
+        "cinnabar_slab",
+        "cinnabar_stairs",
+        "cinnabar_wall",
+        "chiseled_cinnabar",
+        "polished_cinnabar",
+        "polished_cinnabar_slab",
+        "polished_cinnabar_stairs",
+        "polished_cinnabar_wall"
+      ]
+    },
+    {
+      "name": "Sulfur",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#C4B45F",
+      "endColor": "#C4B45F",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "chiseled_sulfur",
+        "polished_sulfur",
+        "polished_sulfur_slab",
+        "polished_sulfur_stairs",
+        "polished_sulfur_wall",
+        "potent_sulfur",
+        "sulfur",
+        "sulfur_brick_slab",
+        "sulfur_brick_stairs",
+        "sulfur_brick_wall",
+        "sulfur_bricks",
+        "sulfur_slab",
+        "sulfur_spike",
+        "sulfur_stairs",
+        "sulfur_wall"
+      ]
+    },
+    {
+      "name": "Soul",
+      "index": 15,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "auto",
+      "endColor": "#5B4538",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["soul_sand", "soul_soil", "pyrellium:drained_soul_soil"]
+    },
+    {
+      "name": "Grass",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/stone_2.png",
+      "startColor": "#966C4A",
+      "endColor": "#79553A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "coarse_dirt",
+        "dirt",
+        "dirt_path",
+        "farmland",
+        "grass_block",
+        "mycelium",
+        "podzol",
+        "rooted_dirt",
+        "farmersdelight:organic_compost",
+        "farmersdelight:rich_soil",
+        "farmersdelight:rich_soil_farmland",
+        "wilderwild:termite_mound"
+      ]
+    },
+    {
       "name": "Mossy Mud",
       "index": 0,
       "image": "legendarytooltips:textures/gui/stone_compat.png",
@@ -2801,6 +2884,8 @@
         "$minecraft:rails",
         "blast_furnace",
         "chain",
+        "chest_minecart",
+        "furnace_minecart",
         "grindstone",
         "goat_horn",
         "iron_bars",
@@ -2976,14 +3061,36 @@
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
         "armor_stand",
+        "barrel",
         "bowl",
+        "brush",
         "carrot_on_a_stick",
+        "chest",
+        "composter",
+        "crafting_table",
         "fishing_rod",
         "ladder",
         "stick",
         "warped_fungus_on_a_stick",
+        "aether:chest_mimic",
+        "aether:treasure_chest",
         "comforts:rope_and_nail",
-        "niftycarts:wheel"
+        "enhancedworkbenches:crafting_station",
+        "enhancedworkbenches:project_table",
+        "farmersdelight:bamboo_basket",
+        "farmersdelight:canvas_rug",
+        "farmersdelight:cutting_board",
+        "farmersdelight:full_tatami_mat",
+        "farmersdelight:half_tatami_mat",
+        "farmersdelight:rope",
+        "farmersdelight:rope_fence",
+        "farmersdelight:rope_fence_gate",
+        "farmersdelight:safety_net",
+        "farmersdelight:tatami",
+        "farmersdelight:wooden_basket",
+        "livingthings:ostrich_nest",
+        "niftycarts:wheel",
+        "usefulbackpacks:filter_configurator"
       ]
     },
     {
@@ -3501,6 +3608,7 @@
         "arrow",
         "bow",
         "crossbow",
+        "fletching_table",
         "spectral_arrow",
         "tipped_arrow",
         "aether:phoenix_bow",
@@ -3726,14 +3834,14 @@
       "selectors": ["feather"]
     },
     {
-      "name": "Soul",
+      "name": "Map",
       "index": 0,
       "image": "legendarytooltips:textures/gui/minecraft_2.png",
-      "startColor": "auto",
-      "endColor": "#5B4538",
+      "startColor": "#EAEAC7",
+      "endColor": "#DADDAA",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["soul_sand", "soul_soil", "pyrellium:drained_soul_soil"]
+      "selectors": ["cartography_table", "filled_map", "map"]
     },
     {
       "name": "Eggs",
@@ -3844,6 +3952,7 @@
         "farmersdelight:ratatouille",
         "farmersdelight:raw_pasta",
         "farmersdelight:rice_roll_medley_block",
+        "farmersdelight:rotten_tomato",
         "farmersdelight:squid_ink_pasta",
         "farmersdelight:stuffed_potato",
         "farmersdelight:stuffed_pumpkin",
@@ -3962,29 +4071,12 @@
         "bookshelf",
         "chiseled_bookshelf",
         "lectern",
+        "paper",
         "writable_book",
         "written_book",
         "aether:book_of_lore",
-        "aether:skyroot_bookshelf"
-      ]
-    },
-    {
-      "name": "Grass",
-      "index": 12,
-      "image": "legendarytooltips:textures/gui/minecraft_2.png",
-      "startColor": "#966C4A",
-      "endColor": "#79553A",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "coarse_dirt",
-        "dirt",
-        "dirt_path",
-        "farmland",
-        "grass_block",
-        "mycelium",
-        "podzol",
-        "rooted_dirt"
+        "aether:skyroot_bookshelf",
+        "livingthings:lexicon"
       ]
     },
     {
