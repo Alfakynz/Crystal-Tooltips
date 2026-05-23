@@ -5,6 +5,7 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 ## ✨ Compatibility
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (some blocks/items)
+- [Animal Feeding Trough](https://modrinth.com/project/bRFWnJ87)
 - [Another Furniture](https://modrinth.com/project/ulloLmqG)
 - [Beans Backpacks](https://modrinth.com/project/o4TtgIhD)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
@@ -25,6 +26,7 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 - [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b)
 - [Sophisticated Core](https://modrinth.com/project/nmoqTijg)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
+- [Trading Post](https://modrinth.com/project/8pcjMDgj)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
 - [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
