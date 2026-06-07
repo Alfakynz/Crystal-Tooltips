@@ -20,6 +20,7 @@
         "oak_log",
         "oak_planks",
         "oak_pressure_plate",
+        "oak_shelf",
         "oak_sign",
         "oak_slab",
         "oak_stairs",
@@ -65,6 +66,7 @@
         "spruce_log",
         "spruce_planks",
         "spruce_pressure_plate",
+        "spruce_shelf",
         "spruce_sign",
         "spruce_slab",
         "spruce_stairs",
@@ -111,6 +113,7 @@
         "birch_log",
         "birch_planks",
         "birch_pressure_plate",
+        "birch_shelf",
         "birch_sign",
         "birch_slab",
         "birch_stairs",
@@ -157,6 +160,7 @@
         "jungle_log",
         "jungle_planks",
         "jungle_pressure_plate",
+        "jungle_shelf",
         "jungle_sign",
         "jungle_slab",
         "jungle_stairs",
@@ -203,6 +207,7 @@
         "acacia_log",
         "acacia_planks",
         "acacia_pressure_plate",
+        "acacia_shelf",
         "acacia_sign",
         "acacia_slab",
         "acacia_stairs",
@@ -249,6 +254,7 @@
         "dark_oak_log",
         "dark_oak_planks",
         "dark_oak_pressure_plate",
+        "dark_oak_shelf",
         "dark_oak_sign",
         "dark_oak_slab",
         "dark_oak_stairs",
@@ -295,6 +301,7 @@
         "mangrove_log",
         "mangrove_planks",
         "mangrove_pressure_plate",
+        "mangrove_shelf",
         "mangrove_sign",
         "mangrove_slab",
         "mangrove_stairs",
@@ -341,6 +348,7 @@
         "cherry_log",
         "cherry_planks",
         "cherry_pressure_plate",
+        "cherry_shelf",
         "cherry_sign",
         "cherry_slab",
         "cherry_stairs",
@@ -387,6 +395,7 @@
         "pale_oak_log",
         "pale_oak_planks",
         "pale_oak_pressure_plate",
+        "pale_oak_shelf",
         "pale_oak_sign",
         "pale_oak_slab",
         "pale_oak_stairs",
@@ -436,6 +445,7 @@
         "bamboo_planks",
         "bamboo_pressure_plate",
         "bamboo_raft",
+        "bamboo_shelf",
         "bamboo_sign",
         "bamboo_slab",
         "bamboo_stairs",
@@ -480,6 +490,7 @@
         "crimson_hyphae",
         "crimson_planks",
         "crimson_pressure_plate",
+        "crimson_shelf",
         "crimson_sign",
         "crimson_slab",
         "crimson_stairs",
@@ -528,6 +539,7 @@
         "warped_hyphae",
         "warped_planks",
         "warped_pressure_plate",
+        "warped_shelf",
         "warped_sign",
         "warped_slab",
         "warped_stairs",
@@ -1278,6 +1290,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "calcite",
         "diorite",
         "diorite_slab",
         "diorite_stairs",
@@ -1334,7 +1347,8 @@
         "polished_deepslate",
         "polished_deepslate_slab",
         "polished_deepslate_stairs",
-        "polished_deepslate_wall"
+        "polished_deepslate_wall",
+        "reinforced_deepslate"
       ]
     },
     {
@@ -1542,7 +1556,7 @@
       "name": "Grass",
       "index": 0,
       "image": "legendarytooltips:textures/gui/stone_2.png",
-      "startColor": "#966C4A",
+      "startColor": "#619954",
       "endColor": "#79553A",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
@@ -1561,6 +1575,26 @@
         "farmersdelight:rich_soil_farmland",
         "wilderwild:termite_mound"
       ]
+    },
+    {
+      "name": "Basalt",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/stone_2.png",
+      "startColor": "#3D3E4C",
+      "endColor": "#4F4B4F",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["basalt", "polished_basalt", "smooth_basalt"]
+    },
+    {
+      "name": "Dripstone",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/stone_2.png",
+      "startColor": "#735450",
+      "endColor": "#927965",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["dripstone_block", "pointed_dripstone"]
     },
     {
       "name": "Mossy Mud",
@@ -1909,7 +1943,7 @@
       ]
     },
     {
-      "name": "Copper",
+      "name": "Copper Block",
       "index": 0,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#C77153",
@@ -1937,11 +1971,12 @@
         "waxed_cut_copper_stairs",
         "friendsandfoes:copper_button",
         "friendsandfoes:waxed_copper_button",
-        "friendsandfoes:waxed_lightning_rod"
+        "copperagebackport:copper_button",
+        "copperagebackport:waxed_copper_button"
       ]
     },
     {
-      "name": "Exposed Copper",
+      "name": "Exposed Copper Block",
       "index": 1,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#BA8277",
@@ -1968,13 +2003,13 @@
         "waxed_exposed_cut_copper_slab",
         "waxed_exposed_cut_copper_stairs",
         "friendsandfoes:exposed_copper_button",
-        "friendsandfoes:exposed_lightning_rod",
         "friendsandfoes:waxed_exposed_copper_button",
-        "friendsandfoes:waxed_exposed_lightning_rod"
+        "copperagebackport:exposed_copper_button",
+        "copperagebackport:waxed_exposed_copper_button"
       ]
     },
     {
-      "name": "Weathered Copper",
+      "name": "Weathered Copper Block",
       "index": 2,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#69A077",
@@ -2001,13 +2036,13 @@
         "weathered_cut_copper_slab",
         "weathered_cut_copper_stairs",
         "friendsandfoes:waxed_weathered_copper_button",
-        "friendsandfoes:waxed_weathered_lightning_rod",
         "friendsandfoes:weathered_copper_button",
-        "friendsandfoes:weathered_lightning_rod"
+        "copperagebackport:weathered_copper_button",
+        "copperagebackport:waxed_weathered_copper_button"
       ]
     },
     {
-      "name": "Oxidized Copper",
+      "name": "Oxidized Copper Block",
       "index": 3,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#59B292",
@@ -2034,9 +2069,9 @@
         "waxed_oxidized_cut_copper_slab",
         "waxed_oxidized_cut_copper_stairs",
         "friendsandfoes:oxidized_copper_button",
-        "friendsandfoes:oxidized_lightning_rod",
         "friendsandfoes:waxed_oxidized_copper_button",
-        "friendsandfoes:waxed_oxidized_lightning_rod"
+        "copperagebackport:oxidized_copper_button",
+        "copperagebackport:waxed_oxidized_copper_button"
       ]
     },
     {
@@ -2781,7 +2816,7 @@
       ]
     },
     {
-      "name": "Smoke and flames",
+      "name": "Smoke and Flames",
       "index": 4,
       "image": "legendarytooltips:textures/gui/1.png",
       "startColor": "30_#FF912307_orangered-s45-v25_#FF912307+v50_#FF912307+r25+s50-v55",
@@ -2795,11 +2830,14 @@
         "blaze_powder",
         "campfire",
         "candle",
+        "copper_torch",
         "fire_charge",
         "flint_and_steel",
+        "jack_o_lantern",
         "magma_block",
         "netherite_scrap",
         "soul_campfire",
+        "soul_fire_charge",
         "soul_torch",
         "torch",
         "aether:ambrosium_torch",
@@ -2809,7 +2847,8 @@
         "livingthings:ancient_helmet",
         "netherite_upgrade_smithing_template",
         "pyrellium:netherrack_mycelium",
-        "soulcandles:soul_candle"
+        "soulcandles:soul_candle",
+        "soulcandles:soul_jack_o_lantern"
       ]
     },
     {
@@ -2838,7 +2877,7 @@
       ]
     },
     {
-      "name": "Elite equipment",
+      "name": "Elite Equipment",
       "index": 6,
       "image": "legendarytooltips:textures/gui/1.png",
       "startColor": "#A26BE0",
@@ -2873,7 +2912,7 @@
       ]
     },
     {
-      "name": "Iron plating",
+      "name": "Iron Plating",
       "index": 8,
       "image": "legendarytooltips:textures/gui/1.png",
       "startColor": "#FF7D8A91",
@@ -3007,7 +3046,7 @@
       ]
     },
     {
-      "name": "Copper plating",
+      "name": "Copper Plating",
       "index": 12,
       "image": "legendarytooltips:textures/gui/1.png",
       "startColor": "#D37253",
@@ -3015,8 +3054,19 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
-        "$c:ingots/copper",
+        "copper_lantern",
+        "copper_bars",
+        "copper_chain",
+        "copper_chest",
+        "copper_golem_statue",
         "lightning_rod",
+        "waxed_copper_bars",
+        "waxed_copper_chain",
+        "waxed_copper_chest",
+        "waxed_copper_golem_statue",
+        "waxed_copper_lantern",
+        "waxed_lightning_rod",
+        "friendsandfoes:waxed_lightning_rod",
         "sophisticatedbackpacks:copper_backpack",
         "wilderwild:copper_horn"
       ]
@@ -3050,10 +3100,10 @@
       "endColor": "#69B038",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["$c:seeds", "cocoa_beans"]
+      "selectors": ["$c:seeds", "cocoa_beans", "sugar_cane"]
     },
     {
-      "name": "Wood tools",
+      "name": "Tools",
       "index": 14,
       "image": "legendarytooltips:textures/gui/1.png",
       "startColor": "#896727",
@@ -3071,6 +3121,8 @@
         "crafting_table",
         "fishing_rod",
         "ladder",
+        "lead",
+        "name_tag",
         "stick",
         "warped_fungus_on_a_stick",
         "aether:chest_mimic",
@@ -3106,6 +3158,7 @@
       "bgEndColor": "auto",
       "selectors": [
         "barrier",
+        "bedrock",
         "chain_command_block",
         "command_block",
         "command_block_minecart",
@@ -3413,6 +3466,8 @@
         "detector_rail",
         "dispenser",
         "dropper",
+        "firework_rocket",
+        "firework_star",
         "heavy_weighted_pressure_plate",
         "hopper",
         "lever",
@@ -3428,6 +3483,7 @@
         "sticky_piston",
         "stone_pressure_plate",
         "target",
+        "tnt",
         "tripwire_hook",
         "aether:holystone_pressure_plate",
         "copperhopper:copper_hopper",
@@ -3776,6 +3832,7 @@
         "beansbackpacks:backpack",
         "beansbackpacks:bundle",
         "sophisticatedbackpacks:backpack",
+        "undeadleather:rotten_leather",
         "usefulbackpacks:backpack_large",
         "usefulbackpacks:backpack_medium",
         "usefulbackpacks:backpack_small"
@@ -4081,6 +4138,120 @@
         "aether:book_of_lore",
         "aether:skyroot_bookshelf",
         "livingthings:lexicon"
+      ]
+    },
+    {
+      "name": "Copper",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": [
+        "$c:ingots/copper",
+        "copper",
+        "copper_axe",
+        "copper_chestplate",
+        "copper_helmet",
+        "copper_hoe",
+        "copper_horse_armor",
+        "copper_leggings",
+        "copper_pickaxe",
+        "copper_shovel",
+        "copper_sword",
+        "copper_boots"
+      ]
+    },
+    {
+      "name": "Copper Nugget",
+      "index": 13,
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": ["copper_nugget"]
+    },
+    {
+      "name": "Exposed Copper Plating",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/minecraft_3.png",
+      "startColor": "#BA8277",
+      "endColor": "#BA8277",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "exposed_copper_bars",
+        "exposed_copper_chain",
+        "exposed_copper_chest",
+        "exposed_copper_golem_statue",
+        "exposed_copper_lantern",
+        "exposed_lightning_rod",
+        "waxed_exposed_copper_bars",
+        "waxed_exposed_copper_chain",
+        "waxed_exposed_copper_chest",
+        "waxed_exposed_copper_golem_statue",
+        "waxed_exposed_copper_lantern",
+        "waxed_exposed_lightning_rod",
+        "friendsandfoes:exposed_copper_button",
+        "friendsandfoes:exposed_lightning_rod",
+        "friendsandfoes:waxed_exposed_copper_button",
+        "friendsandfoes:waxed_exposed_lightning_rod"
+      ]
+    },
+    {
+      "name": "Weathered Copper Plating",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/minecraft_3.png",
+      "startColor": "#69A077",
+      "endColor": "#69A077",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "waxed_weathered_copper_bars",
+        "waxed_weathered_copper_chain",
+        "waxed_weathered_copper_chest",
+        "waxed_weathered_copper_golem_statue",
+        "waxed_weathered_copper_lantern",
+        "waxed_weathered_lightning_rod",
+        "weathered_copper_bars",
+        "weathered_copper_chain",
+        "weathered_copper_chest",
+        "weathered_copper_golem_statue",
+        "weathered_copper_lantern",
+        "weathered_lightning_rod",
+        "friendsandfoes:weathered_copper_button",
+        "friendsandfoes:weathered_lightning_rod",
+        "friendsandfoes:waxed_weathered_copper_button",
+        "friendsandfoes:waxed_weathered_lightning_rod"
+      ]
+    },
+    {
+      "name": "Oxidized Copper Plating",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/minecraft_3.png",
+      "startColor": "#59B292",
+      "endColor": "#59B292",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "oxidized_copper_bars",
+        "oxidized_copper_chain",
+        "oxidized_copper_chest",
+        "oxidized_copper_golem_statue",
+        "oxidized_copper_lantern",
+        "oxidized_lightning_rod",
+        "waxed_oxidized_copper_bars",
+        "waxed_oxidized_copper_chain",
+        "waxed_oxidized_copper_chest",
+        "waxed_oxidized_copper_golem_statue",
+        "waxed_oxidized_copper_lantern",
+        "waxed_oxidized_lightning_rod",
+        "friendsandfoes:oxidized_copper_button",
+        "friendsandfoes:oxidized_lightning_rod",
+        "friendsandfoes:waxed_oxidized_copper_button",
+        "friendsandfoes:waxed_oxidized_lightning_rod"
       ]
     },
     {
