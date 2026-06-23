@@ -3801,6 +3801,7 @@
         "chainmail_leggings",
         "iron_nugget",
         "raw_iron",
+        "raw_iron_block",
         "stone_axe",
         "stone_hoe",
         "stone_pickaxe",
@@ -3831,7 +3832,7 @@
       "endColor": "auto",
       "bgStartColor": "auto",
       "bgEndColor": "auto",
-      "selectors": ["gold_nugget", "raw_gold"]
+      "selectors": ["gold_nugget", "raw_gold", "raw_gold_block"]
     },
     {
       "name": "Wooden",
@@ -4230,7 +4231,7 @@
       "endColor": "auto",
       "bgStartColor": "auto",
       "bgEndColor": "auto",
-      "selectors": ["copper_nugget", "raw_copper"]
+      "selectors": ["copper_nugget", "raw_copper", "raw_copper_block"]
     },
     {
       "name": "Exposed Copper Plating",
