@@ -54,7 +54,11 @@ Want the Obscure Tooltips version, check my other resource packs [Clarity Toolti
 ## 🙏 Credits
 
 - Thanks to [Grend](https://github.com/AHilyard) for [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
-- Thanks to [Teppy381](https://modrinth.com/user/sbPLRjEy) for [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
+- Thanks to [Teppy381](https://modrinth.com/user/sbPLRjEy) for [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp) that contains assets from other projects
+  - Thanks to [durka_top](https://modrinth.com/user/UQYhOJ9j) for [Barely Legendary Tooltips](https://modrinth.com/project/xKCSsrSr)
+  - Thanks to [Gous](https://modrinth.com/user/CwwrkF8H) for [Origin Realms - Legendary Tooltips](https://modrinth.com/project/CjZB9nf0)
+  - Thanks to [YourLocalOtto](https://modrinth.com/user/qo3NgLgA) for [Origin Realms - Legenday Tooltips DLC](https://modrinth.com/project/rhBvhyNN)
+  - Thanks to [Hikari_Nova](https://modrinth.com/user/8dGFG4wP) for [Modded Legendary Tooltips](https://modrinth.com/project/QjA6AyDh)
 
 And a big thanks as well to every other mod creator!! Your mods make the game even more amazing.
 
