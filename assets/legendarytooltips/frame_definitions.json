@@ -1572,8 +1572,8 @@
       "name": "Grass",
       "index": 0,
       "image": "legendarytooltips:textures/gui/stone_2.png",
-      "startColor": "#619954",
-      "endColor": "#79553A",
+      "startColor": "#4D3525",
+      "endColor": "#4D3525",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
