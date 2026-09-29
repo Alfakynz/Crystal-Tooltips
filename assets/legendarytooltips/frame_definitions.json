@@ -61,6 +61,13 @@
         "niftycarts:oak_seed_drill",
         "niftycarts:oak_supply_cart",
         "niftycarts:oak_wagon",
+        "usefulcarts:oak_animal_cart",
+        "usefulcarts:oak_hand_cart",
+        "usefulcarts:oak_plow",
+        "usefulcarts:oak_reaper",
+        "usefulcarts:oak_seed_drill",
+        "usefulcarts:oak_supply_cart",
+        "usefulcarts:oak_wagon",
         "wilderwild:hollowed_oak_log",
         "wilderwild:stripped_hollowed_oak_log"
       ]
@@ -108,6 +115,13 @@
         "niftycarts:spruce_seed_drill",
         "niftycarts:spruce_supply_cart",
         "niftycarts:spruce_wagon",
+        "usefulcarts:spruce_animal_cart",
+        "usefulcarts:spruce_hand_cart",
+        "usefulcarts:spruce_plow",
+        "usefulcarts:spruce_reaper",
+        "usefulcarts:spruce_seed_drill",
+        "usefulcarts:spruce_supply_cart",
+        "usefulcarts:spruce_wagon",
         "wilderwild:hollowed_spruce_log",
         "wilderwild:stripped_hollowed_spruce_log"
       ]
@@ -155,6 +169,13 @@
         "niftycarts:birch_seed_drill",
         "niftycarts:birch_supply_cart",
         "niftycarts:birch_wagon",
+        "usefulcarts:birch_animal_cart",
+        "usefulcarts:birch_hand_cart",
+        "usefulcarts:birch_plow",
+        "usefulcarts:birch_reaper",
+        "usefulcarts:birch_seed_drill",
+        "usefulcarts:birch_supply_cart",
+        "usefulcarts:birch_wagon",
         "wilderwild:hollowed_birch_log",
         "wilderwild:stripped_hollowed_birch_log"
       ]
@@ -202,6 +223,13 @@
         "niftycarts:jungle_seed_drill",
         "niftycarts:jungle_supply_cart",
         "niftycarts:jungle_wagon",
+        "usefulcarts:jungle_animal_cart",
+        "usefulcarts:jungle_hand_cart",
+        "usefulcarts:jungle_plow",
+        "usefulcarts:jungle_reaper",
+        "usefulcarts:jungle_seed_drill",
+        "usefulcarts:jungle_supply_cart",
+        "usefulcarts:jungle_wagon",
         "wilderwild:hollowed_jungle_log",
         "wilderwild:stripped_hollowed_jungle_log"
       ]
@@ -249,6 +277,13 @@
         "niftycarts:acacia_seed_drill",
         "niftycarts:acacia_supply_cart",
         "niftycarts:acacia_wagon",
+        "usefulcarts:acacia_animal_cart",
+        "usefulcarts:acacia_hand_cart",
+        "usefulcarts:acacia_plow",
+        "usefulcarts:acacia_reaper",
+        "usefulcarts:acacia_seed_drill",
+        "usefulcarts:acacia_supply_cart",
+        "usefulcarts:acacia_wagon",
         "wilderwild:hollowed_acacia_log",
         "wilderwild:stripped_hollowed_acacia_log"
       ]
@@ -296,6 +331,13 @@
         "niftycarts:dark_oak_seed_drill",
         "niftycarts:dark_oak_supply_cart",
         "niftycarts:dark_oak_wagon",
+        "usefulcarts:dark_oak_animal_cart",
+        "usefulcarts:dark_oak_hand_cart",
+        "usefulcarts:dark_oak_plow",
+        "usefulcarts:dark_oak_reaper",
+        "usefulcarts:dark_oak_seed_drill",
+        "usefulcarts:dark_oak_supply_cart",
+        "usefulcarts:dark_oak_wagon",
         "wilderwild:hollowed_dark_oak_log",
         "wilderwild:stripped_hollowed_dark_oak_log"
       ]
@@ -343,6 +385,13 @@
         "niftycarts:mangrove_seed_drill",
         "niftycarts:mangrove_supply_cart",
         "niftycarts:mangrove_wagon",
+        "usefulcarts:mangrove_animal_cart",
+        "usefulcarts:mangrove_hand_cart",
+        "usefulcarts:mangrove_plow",
+        "usefulcarts:mangrove_reaper",
+        "usefulcarts:mangrove_seed_drill",
+        "usefulcarts:mangrove_supply_cart",
+        "usefulcarts:mangrove_wagon",
         "wilderwild:hollowed_mangrove_log",
         "wilderwild:stripped_hollowed_mangrove_log"
       ]
@@ -390,6 +439,13 @@
         "niftycarts:cherry_seed_drill",
         "niftycarts:cherry_supply_cart",
         "niftycarts:cherry_wagon",
+        "usefulcarts:cherry_animal_cart",
+        "usefulcarts:cherry_hand_cart",
+        "usefulcarts:cherry_plow",
+        "usefulcarts:cherry_reaper",
+        "usefulcarts:cherry_seed_drill",
+        "usefulcarts:cherry_supply_cart",
+        "usefulcarts:cherry_wagon",
         "wilderwild:hollowed_cherry_log",
         "wilderwild:stripped_hollowed_cherry_log"
       ]
@@ -437,6 +493,13 @@
         "niftycarts:pale_oak_seed_drill",
         "niftycarts:pale_oak_supply_cart",
         "niftycarts:pale_oak_wagon",
+        "usefulcarts:pale_oak_animal_cart",
+        "usefulcarts:pale_oak_hand_cart",
+        "usefulcarts:pale_oak_plow",
+        "usefulcarts:pale_oak_reaper",
+        "usefulcarts:pale_oak_seed_drill",
+        "usefulcarts:pale_oak_supply_cart",
+        "usefulcarts:pale_oak_wagon",
         "wilderwild:hollowed_pale_oak_log",
         "wilderwild:stripped_hollowed_pale_oak_log"
       ]
@@ -501,6 +564,7 @@
         "bamboo_stairs",
         "bamboo_trapdoor",
         "scaffolding",
+        "stripped_bamboo_block",
         "another_furniture:bamboo_bench",
         "another_furniture:bamboo_chair",
         "another_furniture:bamboo_drawer",
@@ -518,7 +582,13 @@
         "niftycarts:bamboo_seed_drill",
         "niftycarts:bamboo_supply_cart",
         "niftycarts:bamboo_wagon",
-        "stripped_bamboo_block"
+        "usefulcarts:bamboo_animal_cart",
+        "usefulcarts:bamboo_hand_cart",
+        "usefulcarts:bamboo_plow",
+        "usefulcarts:bamboo_reaper",
+        "usefulcarts:bamboo_seed_drill",
+        "usefulcarts:bamboo_supply_cart",
+        "usefulcarts:bamboo_wagon"
       ]
     },
     {
@@ -564,6 +634,13 @@
         "niftycarts:crimson_seed_drill",
         "niftycarts:crimson_supply_cart",
         "niftycarts:crimson_wagon",
+        "usefulcarts:crimson_animal_cart",
+        "usefulcarts:crimson_hand_cart",
+        "usefulcarts:crimson_plow",
+        "usefulcarts:crimson_reaper",
+        "usefulcarts:crimson_seed_drill",
+        "usefulcarts:crimson_supply_cart",
+        "usefulcarts:crimson_wagon",
         "wilderwild:hollowed_crimson_stem",
         "wilderwild:stripped_hollowed_crimson_stem"
       ]
@@ -611,6 +688,13 @@
         "niftycarts:warped_seed_drill",
         "niftycarts:warped_supply_cart",
         "niftycarts:warped_wagon",
+        "usefulcarts:warped_animal_cart",
+        "usefulcarts:warped_hand_cart",
+        "usefulcarts:warped_plow",
+        "usefulcarts:warped_reaper",
+        "usefulcarts:warped_seed_drill",
+        "usefulcarts:warped_supply_cart",
+        "usefulcarts:warped_wagon",
         "wilderwild:hollowed_warped_stem",
         "wilderwild:stripped_hollowed_warped_stem"
       ]
@@ -3000,6 +3084,7 @@
         "livingthings:ostrich_nest",
         "niftycarts:wheel",
         "tradingpost:trading_post",
+        "usefulcarts:wheel",
         "usefulbackpacks:filter_configurator"
       ]
     },
