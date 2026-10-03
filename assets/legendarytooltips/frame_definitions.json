@@ -2271,7 +2271,7 @@
       ]
     },
     {
-      "name": "Smoke and Flames",
+      "name": "Fire",
       "index": 0,
       "image": "legendarytooltips:textures/gui/items_1.png",
       "startColor": "30_#FF912307_orangered-s45-v25_#FF912307+v50_#FF912307+r25+s50-v55",
@@ -2284,15 +2284,11 @@
         "blaze_powder",
         "campfire",
         "candle",
-        "copper_torch",
         "fire_charge",
         "flint_and_steel",
         "jack_o_lantern",
         "magma_block",
         "netherite_scrap",
-        "soul_campfire",
-        "soul_fire_charge",
-        "soul_torch",
         "torch",
         "aether:ambrosium_torch",
         "aether:flaming_sword",
@@ -2300,10 +2296,34 @@
         "friendsandfoes:wildfire_crown_fragment",
         "livingthings:ancient_helmet",
         "netherite_upgrade_smithing_template",
-        "pyrellium:netherrack_mycelium",
+        "pyrellium:netherrack_mycelium"
+      ]
+    },
+    {
+      "name": "Soul Fire",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/items_1.png",
+      "startColor": "30_#FF088F92_deepskyblue-s45-v25_#FF088F92+v50_#FF088F92+r25+s50-v55",
+      "endColor": "30_#FF818385-v15_#FF818385+r5+g5+v45_#FF818385-v45_#FF818385+r25+g25",
+      "bgStartColor": "#FF088F92-v125-a20",
+      "bgEndColor": "auto",
+      "selectors": [
+        "soul_campfire",
+        "soul_fire_charge",
+        "soul_torch",
         "soulcandles:soul_candle",
         "soulcandles:soul_jack_o_lantern"
       ]
+    },
+    {
+      "name": "Copper Fire",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/items_1.png",
+      "startColor": "30_#FF46824D_seagreen-s45-v25_#FF46824D+v50_#FF46824D+r25+s50-v55",
+      "endColor": "30_#FF818385-v15_#FF818385+r5+g5+v45_#FF818385-v45_#FF818385+r25+g25",
+      "bgStartColor": "#FF46824D-v125-a20",
+      "bgEndColor": "auto",
+      "selectors": ["copper_torch"]
     },
     {
       "name": "Magic",
