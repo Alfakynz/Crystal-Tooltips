@@ -1500,7 +1500,8 @@
         "copper_shovel",
         "copper_spear",
         "copper_sword",
-        "copper_boots"
+        "copper_boots",
+        "farmersdelight:copper_knife"
       ]
     },
     {
@@ -3194,6 +3195,7 @@
         "farmersdelight:sandy_shrub",
         "farmersdelight:straw",
         "farmersdelight:tree_bark",
+        "farmersdelight:wild_rice",
         "pyrellium:bomb_flower",
         "pyrellium:bomb_plant",
         "pyrellium:burning_leaves",
@@ -3634,6 +3636,8 @@
         "farmersdelight:cooked_rice",
         "farmersdelight:fried_rice",
         "farmersdelight:fruit_salad",
+        "farmersdelight:gleaming_salad",
+        "farmersdelight:gleaming_salad_block",
         "farmersdelight:glow_berry_custard",
         "farmersdelight:honey_cookie",
         "farmersdelight:honey_glazed_ham",
@@ -3650,7 +3654,9 @@
         "farmersdelight:nether_salad",
         "farmersdelight:noodle_soup",
         "farmersdelight:onion",
+        "farmersdelight:onion_soup",
         "farmersdelight:pie_crust",
+        "farmersdelight:pumpkin_pie_slice",
         "farmersdelight:pumpkin_slice",
         "farmersdelight:pumpkin_soup",
         "farmersdelight:ratatouille",
