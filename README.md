@@ -28,6 +28,7 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 - [Sophisticated Core](https://modrinth.com/project/nmoqTijg)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Trading Post](https://modrinth.com/project/8pcjMDgj)
+- [Trailier Tales](https://modrinth.com/project/9xTQM0ci)
 - [Undead Leather](https://modrinth.com/project/P0Iv9AVc)
 - [Useful Carts](https://modrinth.com/project/wzBy5iyV)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)

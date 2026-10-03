@@ -740,6 +740,7 @@
         "stone_slab",
         "stone_stairs",
         "pyrellium:headstone",
+        "trailiertales:stone_wall",
         "wilderwild:stone_chest"
       ]
     },
@@ -778,7 +779,14 @@
         "granite_wall",
         "polished_granite",
         "polished_granite_slab",
-        "polished_granite_stairs"
+        "polished_granite_stairs",
+        "trailiertales:chiseled_granite_bricks",
+        "trailiertales:cracked_granite_bricks",
+        "trailiertales:granite_bricks",
+        "trailiertales:granite_brick_slab",
+        "trailiertales:granite_brick_stairs",
+        "trailiertales:granite_brick_wall",
+        "trailiertales:polished_granite_wall"
       ]
     },
     {
@@ -797,7 +805,27 @@
         "diorite_wall",
         "polished_diorite",
         "polished_diorite_slab",
-        "polished_diorite_stairs"
+        "polished_diorite_stairs",
+        "trailiertales:calcite_bricks",
+        "trailiertales:calcite_brick_slab",
+        "trailiertales:calcite_brick_stairs",
+        "trailiertales:calcite_brick_wall",
+        "trailiertales:calcite_slab",
+        "trailiertales:calcite_stairs",
+        "trailiertales:calcite_wall",
+        "trailiertales:chiseled_calcite_bricks",
+        "trailiertales:chiseled_diorite_bricks",
+        "trailiertales:cracked_calcite_bricks",
+        "trailiertales:cracked_diorite_bricks",
+        "trailiertales:diorite_bricks",
+        "trailiertales:diorite_brick_slab",
+        "trailiertales:diorite_brick_stairs",
+        "trailiertales:diorite_brick_wall",
+        "trailiertales:polished_calcite",
+        "trailiertales:polished_calcite_slab",
+        "trailiertales:polished_calcite_stairs",
+        "trailiertales:polished_calcite_wall",
+        "trailiertales:polished_diorite_wall"
       ]
     },
     {
@@ -815,7 +843,14 @@
         "andesite_wall",
         "polished_andesite",
         "polished_andesite_slab",
-        "polished_andesite_stairs"
+        "polished_andesite_stairs",
+        "trailiertales:chiseled_andesite_bricks",
+        "trailiertales:cracked_andesite_bricks",
+        "trailiertales:andesite_bricks",
+        "trailiertales:andesite_brick_slab",
+        "trailiertales:andesite_brick_stairs",
+        "trailiertales:andesite_brick_wall",
+        "trailiertales:polished_andesite_wall"
       ]
     },
     {
@@ -881,7 +916,8 @@
         "tuff_bricks",
         "tuff_slab",
         "tuff_stairs",
-        "tuff_wall"
+        "tuff_wall",
+        "trailiertales:cracked_tuff_bricks"
       ]
     },
     {
@@ -925,6 +961,9 @@
         "smooth_sandstone_slab",
         "smooth_sandstone_stairs",
         "suspicious_sand",
+        "trailiertales:smooth_sandstone_wall",
+        "trailiertales:cut_sandstone_stairs",
+        "trailiertales:cut_sandstone_wall",
         "wilderwild:scorched_sand"
       ]
     },
@@ -948,6 +987,10 @@
         "smooth_red_sandstone",
         "smooth_red_sandstone_slab",
         "smooth_red_sandstone_stairs",
+        "trailiertales:smooth_red_sandstone_wall",
+        "trailiertales:suspicious_red_sand",
+        "trailiertales:cut_red_sandstone_stairs",
+        "trailiertales:cut_red_sandstone_wall",
         "wilderwild:scorched_red_sand"
       ]
     },
@@ -998,7 +1041,7 @@
       "endColor": "#A1A7B1",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["clay", "clay_ball"]
+      "selectors": ["clay", "clay_ball", "trailiertales:suspicious_clay"]
     },
     {
       "name": "Cinnabar",
@@ -1081,6 +1124,7 @@
         "farmersdelight:organic_compost",
         "farmersdelight:rich_soil",
         "farmersdelight:rich_soil_farmland",
+        "trailiertales:suspicious_dirt",
         "wilderwild:termite_mound"
       ]
     },
@@ -1144,7 +1188,9 @@
         "prismarine_slab",
         "prismarine_stairs",
         "prismarine_wall",
-        "sea_lantern"
+        "sea_lantern",
+        "trailiertales:dark_prismarine_wall",
+        "trailiertales:prismarine_brick_wall"
       ]
     },
     {
@@ -1188,7 +1234,20 @@
         "end_stone_brick_wall",
         "end_stone_bricks",
         "biomesoplenty:algal_end_stone",
-        "biomesoplenty:unmapped_end_stone"
+        "biomesoplenty:unmapped_end_stone",
+        "trailiertales:chiseled_end_stone_bricks",
+        "trailiertales:choral_end_stone",
+        "trailiertales:choral_end_stone_bricks",
+        "trailiertales:choral_end_stone_brick_slab",
+        "trailiertales:choral_end_stone_brick_stairs",
+        "trailiertales:choral_end_stone_brick_wall",
+        "trailiertales:choral_end_stone_slab",
+        "trailiertales:choral_end_stone_stairs",
+        "trailiertales:choral_end_stone_wall",
+        "trailiertales:cracked_end_stone_bricks",
+        "trailiertales:end_stone_slab",
+        "trailiertales:end_stone_stairs",
+        "trailiertales:end_stone_wall"
       ]
     },
     {
@@ -1203,7 +1262,10 @@
         "purpur_block",
         "purpur_pillar",
         "purpur_slab",
-        "purpur_stairs"
+        "purpur_stairs",
+        "trailiertales:chiseled_purpur_block",
+        "trailiertales:cracked_purpur_block",
+        "trailiertales:purpur_wall"
       ]
     },
     {
@@ -1374,7 +1436,12 @@
         "resin_brick_stairs",
         "resin_brick_wall",
         "resin_bricks",
-        "resin_clump"
+        "resin_clump",
+        "trailiertales:cracked_resin_bricks",
+        "trailiertales:polished_resin_block",
+        "trailiertales:polished_resin_slab",
+        "trailiertales:polished_resin_stairs",
+        "trailiertales:polished_resin_wall"
       ]
     },
     {
@@ -2559,7 +2626,15 @@
         "vex_armor_trim_smithing_template",
         "ward_armor_trim_smithing_template",
         "wayfinder_armor_trim_smithing_template",
-        "wild_armor_trim_smithing_template"
+        "wild_armor_trim_smithing_template",
+        "trailiertales:cot_armor_trim_smithing_template",
+        "trailiertales:embrace_armor_trim_smithing_template",
+        "trailiertales:geode_armor_trim_smithing_template",
+        "trailiertales:martyr_armor_trim_smithing_template",
+        "trailiertales:matrix_armor_trim_smithing_template",
+        "trailiertales:overgrowth_armor_trim_smithing_template",
+        "trailiertales:undead_armor_trim_smithing_template",
+        "trailiertales:zephyr_armor_trim_smithing_template"
       ]
     },
     {
@@ -2647,7 +2722,8 @@
         "immersive_armors:steampunk_boots",
         "immersive_armors:steampunk_chestplate",
         "immersive_armors:steampunk_helmet",
-        "immersive_armors:steampunk_leggings"
+        "immersive_armors:steampunk_leggings",
+        "trailiertales:surveyor"
       ]
     },
     {
@@ -2912,6 +2988,7 @@
         "copperhopper:copper_hopper_minecart",
         "pyrellium:chain_fence",
         "thecopperrail:copper_rail",
+        "trailiertales:coffin",
         "wilderwild:display_lantern"
       ]
     },
@@ -3209,6 +3286,14 @@
         "pyrellium:shaderoot_sapling",
         "pyrellium:spores",
         "pyrellium:wispbloom",
+        "trailiertales:cyan_rose_seeds",
+        "trailiertales:dawntrail_seeds",
+        "trailiertales:guzmania",
+        "trailiertales:guzmania_seeds",
+        "trailiertales:lithops",
+        "trailiertales:lithops_seeds",
+        "trailiertales:manedrop",
+        "trailiertales:manedrop_germ",
         "wilderwild:acacia_leaf_litter",
         "wilderwild:algae",
         "wilderwild:auburn_creeping_moss",
@@ -4750,6 +4835,123 @@
         "pyrellium:burning_roots",
         "pyrellium:burning_sprouts",
         "pyrellium:burning_vines"
+      ]
+    },
+    {
+      "name": "TT Mossy Granite",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#A97764",
+      "endColor": "#A97764",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:mossy_granite_bricks",
+        "trailiertales:mossy_granite_brick_slab",
+        "trailiertales:mossy_granite_brick_stairs",
+        "trailiertales:mossy_granite_brick_wall"
+      ]
+    },
+    {
+      "name": "TT Mossy Diorite",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#DCDCDC",
+      "endColor": "#DCDCDC",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:mossy_diorite_bricks",
+        "trailiertales:mossy_diorite_brick_slab",
+        "trailiertales:mossy_diorite_brick_stairs",
+        "trailiertales:mossy_diorite_brick_wall",
+        "trailiertales:mossy_calcite_bricks",
+        "trailiertales:mossy_calcite_brick_slab",
+        "trailiertales:mossy_calcite_brick_stairs",
+        "trailiertales:mossy_calcite_brick_wall"
+      ]
+    },
+    {
+      "name": "TT Mossy Andesite",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#909291",
+      "endColor": "#909291",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:mossy_andesite_bricks",
+        "trailiertales:mossy_andesite_brick_slab",
+        "trailiertales:mossy_andesite_brick_stairs",
+        "trailiertales:mossy_andesite_brick_wall"
+      ]
+    },
+    {
+      "name": "TT Mossy Deepslate",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#797979",
+      "endColor": "#797979",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:mossy_cobbled_deepslate",
+        "trailiertales:mossy_cobbled_deepslate_slab",
+        "trailiertales:mossy_cobbled_deepslate_stairs",
+        "trailiertales:mossy_cobbled_deepslate_wall",
+        "trailiertales:mossy_deepslate_bricks",
+        "trailiertales:mossy_deepslate_brick_slab",
+        "trailiertales:mossy_deepslate_brick_stairs",
+        "trailiertales:mossy_deepslate_brick_wall",
+        "trailiertales:mossy_deepslate_tiles",
+        "trailiertales:mossy_deepslate_tile_slab",
+        "trailiertales:mossy_deepslate_tile_stairs",
+        "trailiertales:mossy_deepslate_tile_wall"
+      ]
+    },
+    {
+      "name": "TT Mossy Tuff",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#85837B",
+      "endColor": "#85837B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:mossy_tuff_bricks",
+        "trailiertales:mossy_tuff_brick_slab",
+        "trailiertales:mossy_tuff_brick_stairs",
+        "trailiertales:mossy_tuff_brick_wall"
+      ]
+    },
+    {
+      "name": "TT Mossy Bricks",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#9B5643",
+      "endColor": "#9B5643",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:mossy_bricks",
+        "trailiertales:mossy_brick_slab",
+        "trailiertales:mossy_brick_stairs",
+        "trailiertales:mossy_brick_wall"
+      ]
+    },
+    {
+      "name": "TT Mossy Resin",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/compat/trailiertales.png",
+      "startColor": "#E36216",
+      "endColor": "#E36216",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "trailiertales:pale_mossy_resin_bricks",
+        "trailiertales:pale_mossy_resin_brick_slab",
+        "trailiertales:pale_mossy_resin_brick_stairs",
+        "trailiertales:pale_mossy_resin_brick_wall"
       ]
     },
     {
