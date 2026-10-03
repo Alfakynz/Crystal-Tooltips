@@ -459,6 +459,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "creaking_heart",
         "pale_oak_boat",
         "pale_oak_button",
         "pale_oak_chest_boat",
@@ -1681,7 +1682,12 @@
       "endColor": "auto",
       "bgStartColor": "auto",
       "bgEndColor": "auto",
-      "selectors": ["gold_nugget", "raw_gold", "raw_gold_block"]
+      "selectors": [
+        "gold_nugget",
+        "raw_gold",
+        "raw_gold_block",
+        "horseexpert:monocle"
+      ]
     },
     {
       "name": "Gold",
@@ -1720,7 +1726,6 @@
         "beansbackpacks:gold_backpack",
         "crittersandcompanions:gold_dragonfly_armor",
         "farmersdelight:golden_knife",
-        "horseexpert:monocle",
         "medievalweapons:golden_big_axe",
         "medievalweapons:golden_dagger",
         "medievalweapons:golden_francisca",
@@ -1765,6 +1770,7 @@
         "aether:diamond_gloves",
         "crittersandcompanions:diamond_dragonfly_armor",
         "farmersdelight:diamond_knife",
+        "medievalweapons:deathsinger_sword",
         "medievalweapons:diamond_big_axe",
         "medievalweapons:diamond_dagger",
         "medievalweapons:diamond_francisca",
@@ -1778,6 +1784,7 @@
         "medievalweapons:diamond_sickle",
         "medievalweapons:diamond_small_axe",
         "medievalweapons:thalleous_sword",
+        "medievalweapons:tidesinger_staff",
         "sophisticatedbackpacks:diamond_backpack",
         "yyzsbackpack:diamond_backpack"
       ]
@@ -2932,7 +2939,14 @@
       "endColor": "auto",
       "bgStartColor": "auto",
       "bgEndColor": "auto",
-      "selectors": ["quartz", "pyrellium:quartz_crystal"]
+      "selectors": [
+        "quartz",
+        "pyrellium:medium_quartz_bud",
+        "pyrellium:large_quartz_bud",
+        "pyrellium:quartz_crystal",
+        "pyrellium:rough_quartz_block",
+        "pyrellium:small_quartz_bud"
+      ]
     },
     {
       "name": "Obsidian",
@@ -3216,6 +3230,7 @@
         "pale_hanging_moss",
         "pale_moss_block",
         "pale_moss_carpet",
+        "pitcher_pod",
         "sea_pickle",
         "seagrass",
         "short_dry_grass",
