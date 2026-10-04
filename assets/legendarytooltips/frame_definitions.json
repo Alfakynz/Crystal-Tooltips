@@ -1569,7 +1569,8 @@
         "copper_spear",
         "copper_sword",
         "copper_boots",
-        "farmersdelight:copper_knife"
+        "farmersdelight:copper_knife",
+        "thecopperierage:wrench"
       ]
     },
     {
@@ -2323,7 +2324,11 @@
       "endColor": "30_#FF818385-v15_#FF818385+r5+g5+v45_#FF818385-v45_#FF818385+r25+g25",
       "bgStartColor": "#FF46824D-v125-a20",
       "bgEndColor": "auto",
-      "selectors": ["copper_torch"]
+      "selectors": [
+        "copper_torch",
+        "thecopperierage:copper_campfire",
+        "thecopperierage:copper_jack_o_lantern"
+      ]
     },
     {
       "name": "Magic",
@@ -2750,6 +2755,8 @@
         "immersive_armors:steampunk_chestplate",
         "immersive_armors:steampunk_helmet",
         "immersive_armors:steampunk_leggings",
+        "thecopperierage:redstone_grit",
+        "thecopperierage:redstone_jack_o_lantern",
         "trailiertales:surveyor"
       ]
     },
@@ -3021,6 +3028,7 @@
         "tnt_minecart",
         "copperhopper:copper_hopper_minecart",
         "pyrellium:chain_fence",
+        "thecopperierage:crate",
         "thecopperrail:copper_rail",
         "trailiertales:coffin",
         "wilderwild:display_lantern"
@@ -3055,6 +3063,19 @@
         "simple_copper_pipes:waxed_copper_fitting",
         "simple_copper_pipes:waxed_copper_pipe",
         "sophisticatedbackpacks:copper_backpack",
+        "thecopperierage:chime",
+        "thecopperierage:copper_button",
+        "thecopperierage:copper_fan",
+        "thecopperierage:copper_horn",
+        "thecopperierage:gearbox",
+        "thecopperierage:sticky_gearbox",
+        "thecopperierage:waxed_chime",
+        "thecopperierage:waxed_copper_button",
+        "thecopperierage:waxed_copper_fan",
+        "thecopperierage:waxed_gearbox",
+        "thecopperierage:waxed_sticky_gearbox",
+        "thecopperierage:waxed_weighted_pressure_plate",
+        "thecopperierage:weighted_pressure_plate",
         "wilderwild:copper_horn"
       ]
     },
@@ -3088,7 +3109,19 @@
         "simple_copper_pipes:exposed_copper_fitting",
         "simple_copper_pipes:exposed_copper_pipe",
         "simple_copper_pipes:waxed_exposed_copper_fitting",
-        "simple_copper_pipes:waxed_exposed_copper_pipe"
+        "simple_copper_pipes:waxed_exposed_copper_pipe",
+        "thecopperierage:exposed_chime",
+        "thecopperierage:exposed_copper_button",
+        "thecopperierage:exposed_copper_fan",
+        "thecopperierage:exposed_gearbox",
+        "thecopperierage:exposed_sticky_gearbox",
+        "thecopperierage:waxed_exposed_chime",
+        "thecopperierage:waxed_exposed_copper_button",
+        "thecopperierage:waxed_exposed_copper_fan",
+        "thecopperierage:waxed_exposed_gearbox",
+        "thecopperierage:waxed_exposed_sticky_gearbox",
+        "thecopperierage:waxed_exposed_weighted_pressure_plate",
+        "thecopperierage:exposed_weighted_pressure_plate"
       ]
     },
     {
@@ -3121,7 +3154,19 @@
         "simple_copper_pipes:weathered_copper_fitting",
         "simple_copper_pipes:weathered_copper_pipe",
         "simple_copper_pipes:waxed_weathered_copper_fitting",
-        "simple_copper_pipes:waxed_weathered_copper_pipe"
+        "simple_copper_pipes:waxed_weathered_copper_pipe",
+        "thecopperierage:weathered_chime",
+        "thecopperierage:weathered_copper_button",
+        "thecopperierage:weathered_copper_fan",
+        "thecopperierage:weathered_gearbox",
+        "thecopperierage:weathered_sticky_gearbox",
+        "thecopperierage:waxed_weathered_chime",
+        "thecopperierage:waxed_weathered_copper_button",
+        "thecopperierage:waxed_weathered_copper_fan",
+        "thecopperierage:waxed_weathered_gearbox",
+        "thecopperierage:waxed_weathered_sticky_gearbox",
+        "thecopperierage:waxed_weathered_weighted_pressure_plate",
+        "thecopperierage:weathered_weighted_pressure_plate"
       ]
     },
     {
@@ -3154,7 +3199,19 @@
         "simple_copper_pipes:oxidized_copper_fitting",
         "simple_copper_pipes:oxidized_copper_pipe",
         "simple_copper_pipes:waxed_oxidized_copper_fitting",
-        "simple_copper_pipes:waxed_oxidized_copper_pipe"
+        "simple_copper_pipes:waxed_oxidized_copper_pipe",
+        "thecopperierage:oxidized_chime",
+        "thecopperierage:oxidized_copper_button",
+        "thecopperierage:oxidized_copper_fan",
+        "thecopperierage:oxidized_gearbox",
+        "thecopperierage:oxidized_sticky_gearbox",
+        "thecopperierage:waxed_oxidized_chime",
+        "thecopperierage:waxed_oxidized_copper_button",
+        "thecopperierage:waxed_oxidized_copper_fan",
+        "thecopperierage:waxed_oxidized_gearbox",
+        "thecopperierage:waxed_oxidized_sticky_gearbox",
+        "thecopperierage:waxed_oxidized_weighted_pressure_plate",
+        "thecopperierage:oxidized_weighted_pressure_plate"
       ]
     },
     {
