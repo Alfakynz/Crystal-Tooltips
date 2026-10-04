@@ -3050,6 +3050,10 @@
         "copperhopper:copper_hopper",
         "copperhopper:waxed_copper_hopper",
         "friendsandfoes:waxed_lightning_rod",
+        "simple_copper_pipes:copper_fitting",
+        "simple_copper_pipes:copper_pipe",
+        "simple_copper_pipes:waxed_copper_fitting",
+        "simple_copper_pipes:waxed_copper_pipe",
         "sophisticatedbackpacks:copper_backpack",
         "wilderwild:copper_horn"
       ]
@@ -3080,7 +3084,11 @@
         "friendsandfoes:exposed_copper_button",
         "friendsandfoes:exposed_lightning_rod",
         "friendsandfoes:waxed_exposed_copper_button",
-        "friendsandfoes:waxed_exposed_lightning_rod"
+        "friendsandfoes:waxed_exposed_lightning_rod",
+        "simple_copper_pipes:exposed_copper_fitting",
+        "simple_copper_pipes:exposed_copper_pipe",
+        "simple_copper_pipes:waxed_exposed_copper_fitting",
+        "simple_copper_pipes:waxed_exposed_copper_pipe"
       ]
     },
     {
@@ -3109,7 +3117,11 @@
         "friendsandfoes:weathered_copper_button",
         "friendsandfoes:weathered_lightning_rod",
         "friendsandfoes:waxed_weathered_copper_button",
-        "friendsandfoes:waxed_weathered_lightning_rod"
+        "friendsandfoes:waxed_weathered_lightning_rod",
+        "simple_copper_pipes:weathered_copper_fitting",
+        "simple_copper_pipes:weathered_copper_pipe",
+        "simple_copper_pipes:waxed_weathered_copper_fitting",
+        "simple_copper_pipes:waxed_weathered_copper_pipe"
       ]
     },
     {
@@ -3138,7 +3150,11 @@
         "friendsandfoes:oxidized_copper_button",
         "friendsandfoes:oxidized_lightning_rod",
         "friendsandfoes:waxed_oxidized_copper_button",
-        "friendsandfoes:waxed_oxidized_lightning_rod"
+        "friendsandfoes:waxed_oxidized_lightning_rod",
+        "simple_copper_pipes:oxidized_copper_fitting",
+        "simple_copper_pipes:oxidized_copper_pipe",
+        "simple_copper_pipes:waxed_oxidized_copper_fitting",
+        "simple_copper_pipes:waxed_oxidized_copper_pipe"
       ]
     },
     {

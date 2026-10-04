@@ -24,6 +24,7 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 - [Medieval Weapons](https://modrinth.com/project/C37HUu02)
 - [NiftyCarts](https://modrinth.com/project/CXd6g9xp)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
+- [Simple Copper Pipe](https://modrinth.com/project/9r4ZkgSN)
 - [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b)
 - [Sophisticated Core](https://modrinth.com/project/nmoqTijg)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
