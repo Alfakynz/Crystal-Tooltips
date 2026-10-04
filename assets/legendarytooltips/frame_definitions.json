@@ -741,8 +741,7 @@
         "stone_slab",
         "stone_stairs",
         "pyrellium:headstone",
-        "trailiertales:stone_wall",
-        "wilderwild:stone_chest"
+        "trailiertales:stone_wall"
       ]
     },
     {
@@ -1016,6 +1015,7 @@
         "polished_blackstone_brick_stairs",
         "polished_blackstone_brick_wall",
         "polished_blackstone_bricks",
+        "polished_blackstone_button",
         "polished_blackstone_slab",
         "polished_blackstone_stairs",
         "polished_blackstone_wall",
@@ -1121,6 +1121,7 @@
         "mycelium",
         "podzol",
         "rooted_dirt",
+        "biomesoplenty:dried_salt",
         "biomesoplenty:origin_grass_block",
         "farmersdelight:organic_compost",
         "farmersdelight:rich_soil",
@@ -1167,7 +1168,8 @@
         "brick_slab",
         "brick_stairs",
         "brick_wall",
-        "bricks"
+        "bricks",
+        "trailiertales:cracked_bricks"
       ]
     },
     {
@@ -1454,6 +1456,7 @@
       "bgStartColor": "auto",
       "bgEndColor": "auto",
       "selectors": [
+        "armadillo_scute",
         "bundle",
         "leather",
         "leather_boots",
@@ -1463,6 +1466,7 @@
         "leather_leggings",
         "rabbit_hide",
         "saddle",
+        "wolf_armor",
         "aether:leather_gloves",
         "beansbackpacks:backpack",
         "beansbackpacks:bundle",
@@ -1846,6 +1850,7 @@
         "heavy_core",
         "mace",
         "trident",
+        "turtle_scute",
         "turtle_helmet",
         "customizableelytra:elytra_wing"
       ]
@@ -2285,6 +2290,7 @@
         "blaze_powder",
         "campfire",
         "candle",
+        "dried_ghast",
         "fire_charge",
         "flint_and_steel",
         "jack_o_lantern",
@@ -3031,7 +3037,8 @@
         "thecopperierage:crate",
         "thecopperrail:copper_rail",
         "trailiertales:coffin",
-        "wilderwild:display_lantern"
+        "wilderwild:display_lantern",
+        "wilderwild:stone_chest"
       ]
     },
     {
@@ -3264,20 +3271,24 @@
         "enhancedworkbenches:project_table",
         "farmersdelight:bamboo_basket",
         "farmersdelight:canvas_rug",
+        "farmersdelight:canvas_sign",
         "farmersdelight:cutting_board",
         "farmersdelight:full_tatami_mat",
         "farmersdelight:half_tatami_mat",
+        "farmersdelight:hanging_canvas_sign",
         "farmersdelight:rope",
         "farmersdelight:rope_fence",
         "farmersdelight:rope_fence_gate",
         "farmersdelight:safety_net",
         "farmersdelight:tatami",
         "farmersdelight:wooden_basket",
+        "friendsandfoes:crab_claw",
         "livingthings:ostrich_nest",
         "niftycarts:wheel",
         "tradingpost:trading_post",
         "usefulcarts:wheel",
-        "usefulbackpacks:filter_configurator"
+        "usefulbackpacks:filter_configurator",
+        "wilderwild:milkweed_pod"
       ]
     },
     {
@@ -3346,6 +3357,7 @@
         "biomesoplenty:dune_grass",
         "biomesoplenty:enderphyte",
         "biomesoplenty:flower_bud",
+        "biomesoplenty:flower_stem",
         "biomesoplenty:glowing_moss_block",
         "biomesoplenty:glowing_moss_carpet",
         "biomesoplenty:high_grass",
@@ -3355,7 +3367,9 @@
         "biomesoplenty:lumaloop",
         "biomesoplenty:lumaloop_plant",
         "biomesoplenty:mossy_black_sand",
+        "biomesoplenty:orange_maple_leaf_litter",
         "biomesoplenty:orange_maple_leaf_pile",
+        "biomesoplenty:red_maple_leaf_litter",
         "biomesoplenty:red_maple_leaf_pile",
         "biomesoplenty:reed",
         "biomesoplenty:sea_oats",
@@ -3367,6 +3381,7 @@
         "biomesoplenty:watergrass",
         "biomesoplenty:waterlily",
         "biomesoplenty:willow_vine",
+        "biomesoplenty:yellow_maple_leaf_litter",
         "biomesoplenty:yellow_maple_leaf_pile",
         "crittersandcompanions:acorn_hat",
         "deeperdarker:blooming_moss_block",
@@ -3432,6 +3447,7 @@
         "wilderwild:red_maple_leaf_litter",
         "wilderwild:sea_anemone",
         "wilderwild:sea_whip",
+        "wilderwild:shrub",
         "wilderwild:spruce_leaf_litter",
         "wilderwild:tube_worms",
         "wilderwild:tumbleweed",
@@ -3800,6 +3816,7 @@
         "carrot",
         "cookie",
         "dried_kelp",
+        "dried_kelp_block",
         "glow_berries",
         "melon_slice",
         "mushroom_stew",
@@ -3807,6 +3824,7 @@
         "potato",
         "pumpkin_pie",
         "rabbit_stew",
+        "suspicious_stew",
         "sweet_berries",
         "aether:ambrosium_shard",
         "aether:blue_berry",
@@ -3903,6 +3921,7 @@
         "blue_egg",
         "brown_egg",
         "egg",
+        "frogspawn",
         "sniffer_egg",
         "turtle_egg",
         "aether:black_moa_egg",
