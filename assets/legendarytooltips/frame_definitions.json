@@ -4545,8 +4545,8 @@
       "name": "BOP Brimstone",
       "index": 3,
       "image": "legendarytooltips:textures/gui/compat/biomesoplenty_2.png",
-      "startColor": "auto",
-      "endColor": "auto",
+      "startColor": "#B46C1C",
+      "endColor": "#B46C1C",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
@@ -4559,6 +4559,58 @@
         "biomesoplenty:brimstone_cluster",
         "biomesoplenty:brimstone_fumarole",
         "biomesoplenty:chiseled_brimstone_bricks"
+      ]
+    },
+    {
+      "name": "BOP Sphalerite",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/compat/biomesoplenty_2.png",
+      "startColor": "#CED993",
+      "endColor": "#CED993",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:chiseled_sphalerite",
+        "biomesoplenty:polished_sphalerite",
+        "biomesoplenty:polished_sphalerite_slab",
+        "biomesoplenty:polished_sphalerite_stairs",
+        "biomesoplenty:polished_sphalerite_wall",
+        "biomesoplenty:potent_sphalerite",
+        "biomesoplenty:sphalerite",
+        "biomesoplenty:sphalerite_brick_slab",
+        "biomesoplenty:sphalerite_brick_stairs",
+        "biomesoplenty:sphalerite_brick_wall",
+        "biomesoplenty:sphalerite_bricks",
+        "biomesoplenty:sphalerite_slab",
+        "biomesoplenty:sphalerite_stairs",
+        "biomesoplenty:sphalerite_wall"
+      ]
+    },
+    {
+      "name": "BOP Orpiment",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/compat/biomesoplenty_2.png",
+      "startColor": "#D18646",
+      "endColor": "#D18646",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:chiseled_orpiment",
+        "biomesoplenty:polished_orpiment",
+        "biomesoplenty:polished_orpiment_slab",
+        "biomesoplenty:polished_orpiment_stairs",
+        "biomesoplenty:polished_orpiment_wall",
+        "biomesoplenty:orpiment",
+        "biomesoplenty:orpiment_brick_slab",
+        "biomesoplenty:orpiment_brick_stairs",
+        "biomesoplenty:orpiment_brick_wall",
+        "biomesoplenty:orpiment_bricks",
+        "biomesoplenty:orpiment_bud",
+        "biomesoplenty:orpiment_cluster",
+        "biomesoplenty:orpiment_fumarole",
+        "biomesoplenty:orpiment_slab",
+        "biomesoplenty:orpiment_stairs",
+        "biomesoplenty:orpiment_wall"
       ]
     },
     {
