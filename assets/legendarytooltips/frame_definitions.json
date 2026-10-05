@@ -1590,7 +1590,8 @@
         "chainmail_chestplate",
         "chainmail_helmet",
         "chainmail_leggings",
-        "aether:chainmail_gloves"
+        "aether:chainmail_gloves",
+        "farmersdelight:flint_knife"
       ]
     },
     {
@@ -2290,9 +2291,15 @@
         "blaze_powder",
         "campfire",
         "candle",
+        "charcoal",
+        "coal",
+        "coal_block",
         "dried_ghast",
         "fire_charge",
+        "flint",
         "flint_and_steel",
+        "glowstone",
+        "gunpowder",
         "jack_o_lantern",
         "magma_block",
         "netherite_scrap",
@@ -2709,6 +2716,7 @@
         "ghast_tear",
         "glass_bottle",
         "glistering_melon_slice",
+        "glowstone_dust",
         "lingering_potion",
         "magma_cream",
         "nether_wart",
@@ -2794,6 +2802,7 @@
         "aether:ice_pendant",
         "aether:ice_ring",
         "pyrellium:freezing_ice",
+        "pyrellium:packed_freezing_ice",
         "wilderwild:fragile_ice",
         "wilderwild:icicle"
       ]
@@ -3241,6 +3250,26 @@
       ]
     },
     {
+      "name": "Ink",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/items_3.png",
+      "startColor": "#27263D",
+      "endColor": "#27263D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["glow_ink_sac", "ink_sac"]
+    },
+    {
+      "name": "Glass",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/items_3.png",
+      "startColor": "#D0EAE9",
+      "endColor": "#A8D0D9",
+      "bgStartColor": "#FF000000-v125-a30",
+      "bgEndColor": "#FF000000-v125-a50",
+      "selectors": ["glass", "glass_pane"]
+    },
+    {
       "name": "Tools",
       "index": 15,
       "image": "legendarytooltips:textures/gui/items_3.png",
@@ -3469,6 +3498,7 @@
         "brown_mushroom_block",
         "mushroom_stem",
         "red_mushroom_block",
+        "shroomlight",
         "biomesoplenty:glowshroom_block",
         "biomesoplenty:toadstool_block",
         "farmersdelight:brown_mushroom_colony",
@@ -3608,6 +3638,16 @@
       "selectors": ["horn_coral", "horn_coral_block", "horn_coral_fan"]
     },
     {
+      "name": "Crops",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/nature.png",
+      "startColor": "#AB9225",
+      "endColor": "#AB9225",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["carved_pumpkin", "hay_block", "melon", "pumpkin", "wheat"]
+    },
+    {
       "name": "Beef",
       "index": 0,
       "image": "legendarytooltips:textures/gui/meat.png",
@@ -3625,7 +3665,7 @@
       "endColor": "#A75353",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["porkchop", "farmersdelight:bacon"]
+      "selectors": ["porkchop", "farmersdelight:bacon", "farmersdelight:ham"]
     },
     {
       "name": "Mutton",
@@ -3719,7 +3759,8 @@
         "cooked_porkchop",
         "farmersdelight:bacon_and_eggs",
         "farmersdelight:bacon_sandwich",
-        "farmersdelight:cooked_bacon"
+        "farmersdelight:cooked_bacon",
+        "farmersdelight:smoked_ham"
       ]
     },
     {
