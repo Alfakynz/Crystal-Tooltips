@@ -4780,7 +4780,7 @@
     },
     {
       "name": "DD Grime",
-      "index": 7,
+      "index": 5,
       "image": "legendarytooltips:textures/gui/compat/deeperdarker.png",
       "startColor": "#12272B",
       "endColor": "#12272B",
@@ -4798,7 +4798,7 @@
     },
     {
       "name": "DD Sculk Stone",
-      "index": 8,
+      "index": 6,
       "image": "legendarytooltips:textures/gui/compat/deeperdarker.png",
       "startColor": "#0A242D",
       "endColor": "#0A242D",
